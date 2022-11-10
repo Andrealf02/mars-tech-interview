@@ -1,0 +1,13 @@
+{
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "authors": [
+        {
+            "name": "Andrea Franconetti",
+            "email": "andreafranconetti2002@gmail.com"
+        }
+    ]
+}
