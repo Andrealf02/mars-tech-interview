@@ -1,7 +1,7 @@
 <?php
-require_once('app/Input.php');
-require_once('app/Plateau.php');
-require_once('app/Rover.php');
+require_once('Aplication/Input.php');
+require_once('Core/Domain/Plateau.php');
+require_once('Core/Domain/Rover.php');
 require_once('app/controllers/ExplorationController.php');
 
 echo "Provide Plateau Data\n";
